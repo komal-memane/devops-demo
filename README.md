@@ -133,4 +133,5 @@ A: A configuration language used to define workflows.
 * Add monitoring
 
 ---
+<img width="954" height="382" alt="Screenshot 2026-04-23 233444" src="https://github.com/user-attachments/assets/b8fcd91e-b60c-4bc5-878d-4202f00d4c11" />
 
